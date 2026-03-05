@@ -96,22 +96,37 @@ The dashboard allows quick understanding of **customer purchasing behavior and t
 ## 📂 Project Structure
 
 ```
-Customer-Shopping-Behavior-Analysis
+customer-shopping-behavior-analysis
 │
 ├── data
-│   └── customer_shopping_data.csv
+│   └── customer_shopping_behavior.csv
 │
 ├── notebooks
-│   └── data_cleaning_analysis.ipynb
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql
-│   └── business_queries.sql
+│   └── customer shopping behavior.sql
 │
-├── powerbi
-│   └── shopping_behavior_dashboard.pbix
+├── dashboard
+│   ├── customer_behavior_dashboard.pbix
+│   └── dashboard.png
 │
-└── README.md
+├── docs
+│   ├── Business Problem Document.pdf
+│   ├── Customer Shopping Behavior Analysis.pdf
+│   └── Customer-Shopping-Behavior-Analysis.pptx
+│
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
+
+---
+
+## 📊 Dashboard Preview
+
+![Customer Shopping Dashboard](dashboard/dashboard.png)
+
 
 ---
 
