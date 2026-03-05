@@ -123,12 +123,7 @@ customer-shopping-behavior-analysis
 
 ---
 
-## 📊 Dashboard Preview
 
-![Customer Shopping Dashboard](dashboard/dashboard.png)
-
-
----
 
 ## 👩‍💻 Author
 
